@@ -1,0 +1,4 @@
+>$ docker build -f Dockerfile -t springdocker .
+>$ docker images (to see images)
+>$ docker run -p 8080:8080 springdocker
+>$ docker-machine ls
